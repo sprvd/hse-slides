@@ -1,0 +1,5 @@
+#let prim-blue = cmyk(100%, 80%, 0%, 40%)
+#let add-blue = cmyk(95%, 75%, 0%, 0%)
+#let gray = cmyk(0%, 0%, 0%, 50%)
+#let light-gray = cmyk(0%, 0%, 0%, 25%)
+#let white = cmyk(0%, 0%, 0%, 10%)

@@ -1,0 +1,13 @@
+[package]
+name = "hse-slides"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["@pine-free", "@cop1cat"]
+license = "MIT"
+description = "Шаблон презентаций в стиле НИУ ВШЭ"
+repository = "https://github.com/cop1cat/hse-slides"
+keywords = ["hse", "presentation", "slides", "russian"]
+
+[template]
+path = "template"
+entrypoint = "main.typ"
