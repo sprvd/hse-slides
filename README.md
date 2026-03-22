@@ -39,17 +39,6 @@
 typst compile --font-path static/fonts template/main.typ
 ```
 
-## Изображения
-
-Необходимо самостоятельно добавить файлы логотипов в `static/images/`:
-
-```
-static/images/
-├── emblem.svg
-├── logo.svg
-└── logo-dark.svg
-```
-
 ## Зависимости
 
 - [polylux](https://typst.app/universe/package/polylux) `0.4.0`
